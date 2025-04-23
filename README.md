@@ -29,7 +29,7 @@
 - **Frameworks:** Django, Django REST Framework  
 - **Databases:** PostgreSQL, SQLite  
 - **Tools:** Git, Docker, Linux, Cloudinary  
-- **Other:** Competitive Programming, Machine Learning, Quantum Physics
+- **Other:** Competitive Programming, Machine Learning
 
 ## 🌱 Currently Learning
 - Advanced ML & AI model deployment  
