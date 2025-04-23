@@ -2,7 +2,7 @@
 **habiboffdev/habiboffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋 I'm Habiboffdev
+# Hi there 👋 I'm Mirzosharif
 
 [![GitHub followers](https://img.shields.io/github/followers/habiboffdev?style=social)](https://github.com/habiboffdev)
 
@@ -38,7 +38,7 @@
 - Quantum computing fundamentals  
 - Frontend frameworks (React, Vue)
 
-## 🔭 Some repos from me
+## 🔭 Some repos from me(They are pretty old btw)
 | Project                          | Description                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------|
 | [IZhO-2024](https://github.com/habiboffdev/IZhO-2024)           | Solutions and write-ups for the International School Olympiad in Informatics (2024)      |
