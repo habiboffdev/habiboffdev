@@ -5,7 +5,7 @@
 # Hi there 👋 I'm Habiboffdev
 
 [![GitHub followers](https://img.shields.io/github/followers/habiboffdev?style=social)](https://github.com/habiboffdev)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=habiboffdev.habiboffdev)](https://github.com/habiboffdev)
+
 
 ## 👨‍🎓 About Me
 - 🎒 12th-grade Computer Science major at Mirzo Ulugbek Specialized School (Tashkent)
