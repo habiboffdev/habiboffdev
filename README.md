@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mirzosharif Habibov</h1>
-<h3 align="center">Aspiring student from Tashkent Uzbekistan</h3>
+<!--
+**habiboffdev/habiboffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-- 🔭 I’m currently working on [Chinor Community](chinor.live)
+# Hi there 👋 I'm Habiboffdev
 
-- 💬 Ask me about **django, telegram bots and algorithms**
+[![GitHub followers](https://img.shields.io/github/followers/habiboffdev?style=social)](https://github.com/habiboffdev)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=habiboffdev.habiboffdev)](https://github.com/habiboffdev)
 
-- 📫 How to reach me **habibov.mirzosharif@gmail.com**
+## 👨‍🎓 About Me
+- 🎒 12th-grade Computer Science major at Mirzo Ulugbek Specialized School (Tashkent)
+- 🥇 National and international informatics olympiad medalist; Codeforces Expert
+- 💻 Backend engineer & Python mentor at Digital Generation Uzbekistan
+- 🌐 Creator of **Chinor Community** & **Chinor ID** platform (student profile system)
+- 📚 SAT: 1450 (660 EBRW | 790 Math), IELTS: 7.0
+- 📍 From Fergana, boarding school student in Tashkent
 
-- 📄 Know about my experiences [mirzosharif.me/resume.pdf](mirzosharif.me/resume.pdf)
+## 🚀 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-0088CC?style=flat&logo=telegram)
 
-- ⚡ Fun fact **I think therefore I am xD**
+- **Languages:** Python, C++, JavaScript  
+- **Frameworks:** Django, Django REST Framework  
+- **Databases:** PostgreSQL, SQLite  
+- **Tools:** Git, Docker, Linux, Cloudinary  
+- **Other:** Competitive Programming, Machine Learning, Quantum Physics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mirzosharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirzosharif" height="30" width="40" /></a>
-</p>
+## 🌱 Currently Learning
+- Advanced ML & AI model deployment  
+- Quantum computing fundamentals  
+- Frontend frameworks (React, Vue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔭 Current Projects
+| Project                          | Description                                                                              |
+|----------------------------------|------------------------------------------------------------------------------------------|
+| [IZhO-2024](https://github.com/habiboffdev/IZhO-2024)           | Solutions and write-ups for the International School Olympiad in Informatics (2024)      |
+| [Ramadan_Calendar](https://github.com/habiboffdev/Ramadan_Calendar) | A Telegram bot to share daily Ramadan timings and reminders                              |
+| [chess-project](https://github.com/habiboffdev/chess-project)   | A Python-based chess game with AI opponent                                               |
+| [testopia](https://github.com/habiboffdev/testopia)             | Django + Telegram bot quiz platform (upload an Excel file → auto-generated quizzes)    |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habiboffdev&show_icons=true&locale=en&layout=compact" alt="habiboffdev" /></p>
+## 👯 Looking to Collaborate On
+- Open-source educational tools for students  
+- ML/AI research and hobby projects  
+- Community-driven volunteering & mentorship platforms
+
+## 🤝 Connect with Me
+- ✉️ Email: [habiboffdev@example.com](mailto:habiboffdev@example.com)  
+- 💬 Telegram: [@habiboffdev](https://t.me/habiboffdev)  
+- 🐦 Twitter: [@habiboffdev](https://twitter.com/habiboffdev)  
+
+---
+
+## 📈 GitHub Stats
+
+[![Habib’s GitHub stats](https://github-readme-stats.vercel.app/api?username=habiboffdev&show_icons=true&theme=radical&count_private=true)](https://github.com/habiboffdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habiboffdev&layout=compact&theme=radical)](https://github.com/habiboffdev)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
