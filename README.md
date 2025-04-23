@@ -10,10 +10,12 @@
 ## 👨‍🎓 About Me
 - 🎒 12th-grade Computer Science major at Mirzo Ulugbek Specialized School (Tashkent)
 - 🥇 National and international informatics olympiad medalist; Codeforces Expert
+- 🙁 I don't like GitHub; I store codes locally and lazy to upload them.
 - 💻 Backend engineer & Python mentor at Digital Generation Uzbekistan
 - 🌐 Creator of **Chinor Community** & **Chinor ID** platform (student profile system)
 - 📚 SAT: 1450 (660 EBRW | 790 Math), IELTS: 7.0
 - 📍 From Fergana, boarding school student in Tashkent
+
 
 ## 🚀 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
