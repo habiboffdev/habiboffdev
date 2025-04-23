@@ -36,7 +36,7 @@
 - Quantum computing fundamentals  
 - Frontend frameworks (React, Vue)
 
-## 🔭 Current Projects
+## 🔭 Some repos from me
 | Project                          | Description                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------|
 | [IZhO-2024](https://github.com/habiboffdev/IZhO-2024)           | Solutions and write-ups for the International School Olympiad in Informatics (2024)      |
