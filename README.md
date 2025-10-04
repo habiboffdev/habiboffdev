@@ -8,7 +8,6 @@
 
 
 ## 👨‍🎓 About Me
-- 🎒 12th-grade Computer Science major at Mirzo Ulugbek Specialized School (Tashkent)
 - 🥇 National and international informatics olympiad medalist; Codeforces Expert
 - 🙁 I don't like GitHub; I store codes locally and lazy to upload them.
 
