@@ -11,10 +11,6 @@
 - 🎒 12th-grade Computer Science major at Mirzo Ulugbek Specialized School (Tashkent)
 - 🥇 National and international informatics olympiad medalist; Codeforces Expert
 - 🙁 I don't like GitHub; I store codes locally and lazy to upload them.
-- 💻 Backend engineer & Python mentor at Digital Generation Uzbekistan
-- 🌐 Creator of **Chinor Community** & **Chinor ID** platform (student profile system)
-- 📚 SAT: 1450 (660 EBRW | 790 Math), IELTS: 7.0
-- 📍 From Fergana, boarding school student in Tashkent
 
 
 ## 🚀 Skills & Tools
@@ -35,8 +31,7 @@
 
 ## 🌱 Currently Learning
 - Advanced ML & AI model deployment  
-- Quantum computing fundamentals  
-- Frontend frameworks (React, Vue)
+
 
 ## 🔭 Some repos from me(They are pretty old btw)
 | Project                          | Description                                                                              |
@@ -46,14 +41,9 @@
 | [chess-project](https://github.com/habiboffdev/chess-project)   | A Python-based chess game with AI opponent                                               |
 | [testopia](https://github.com/habiboffdev/testopia)             | Django + Telegram bot quiz platform (upload an Excel file → auto-generated quizzes)    |
 
-## 👯 Looking to Collaborate On
-- Open-source educational tools for students  
-- ML/AI research and hobby projects  
-- Community-driven volunteering & mentorship platforms
-
 ## 🤝 Connect with Me
-- ✉️ Email: [habiboffdev@example.com](mailto:habiboffdev@example.com)  
-- 💬 Telegram: [@habiboffdev](https://t.me/habiboffdev)  
+- ✉️ Email: [habibov.mirzosharif@gmail.com](mailto:habibov.mirzosharif@gmail.com)  
+- 💬 Telegram: [@habiboffdev](https://t.me/mirzosharifh)  
 - 🐦 Twitter: [@habiboffdev](https://twitter.com/habiboffdev)  
 
 ---
